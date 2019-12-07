@@ -1,4 +1,4 @@
-module github.com/padamstx/gomodlib
+module github.com/padamstx/gomodlib/v2
 
 go 1.12
 
