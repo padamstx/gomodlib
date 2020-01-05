@@ -14,7 +14,7 @@ package gomodlib
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-const version string = "3.0.0"
+const version string = "3.0.2"
 
 func HelloWorld() string {
 	return "Hello, world.  This is version: " + version 

@@ -20,5 +20,5 @@ import (
 )
 
 func TestHelloWorld(t *testing.T) {
-	assert.Equal(t, "Hello, world.  This is version: 3.0.0", HelloWorld())
+	assert.Equal(t, "Hello, world.  This is version: 3.0.2", HelloWorld())
 }
